@@ -54,9 +54,8 @@ The project has three componants which are:
 - Outputs results on the test set
 - Exports the final model as a pickle file
 
-3. **Flask Web App:** the web app enables the user to enter a disaster message, and then view the categories of the message. 
-As you can see from the following screeshot, *"Please help me, I am sick"* message is written in the message input and the app classifies the message into categories (related,request, aid related).
- 
+3. **Flask Web App:** the web app enables the user to enter a disaster message, and then view the categories of the message.
+
 The web app also contains some visualizations that describe the data. 
  
  
