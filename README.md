@@ -1,6 +1,5 @@
-## Disaster Response Pipelines
+# Disaster Response Pipelines
 
-![screenshot](images/Web_app_screenshot1.JPG)
 
 ### Table of Contents
 
